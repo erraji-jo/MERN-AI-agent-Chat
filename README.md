@@ -31,13 +31,13 @@ Before running the application, ensure you have the following installed:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yashkathe/AI-Chat-Bot-MERN.git
+    git clone https://github.com/erraji-jo/MERN-AI-agent-Chat.git
     ```
 
 2.  Navigate to the project directory:
 
     ```bash
-    cd AI-Chat-Bot-MERN
+    cd MERN-AI-agent-Chat
     ```
 
 3.  Install dependencies for both the client and server:
