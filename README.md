@@ -80,22 +80,20 @@ Before running the application, ensure you have the following installed:
 
 ## Website Screenshots
 
-### Home Page
 
-![Home Page](readme_content/home.png)
 
-### Login Page
+## Website Demo
 
-![Login](readme_content/auth_login.png)
+![Website Demo](readme_content/demo.gif)
 
 ### SignUp Page
 
 ![Signup](readme_content/auth_signup.png)
 
+### Home Page
+
+![Home Page](readme_content/home.png)
+
 ### Chat Page
 
 ![Empty Chat](readme_content/empty_chat.png)
-
-## Website Demo
-
-![Website Demo](readme_content/demo.gif)
